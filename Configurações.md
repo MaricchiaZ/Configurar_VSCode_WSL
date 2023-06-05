@@ -1,6 +1,14 @@
 # Configurando o WSL e o VSCode em um computador Windows
 
+O Ubuntu é um sistema operacional baseado em Linux amplamente utilizado por desenvolvedores, cientistas de dados e profissionais de TI em todo o mundo.
 
+O WSL (Windows Subsystem for Linux) é uma camada de compatibilidade do Windows que permite executar um ambiente Linux nativo no Windows. Ele fornece uma interface entre o sistema operacional Windows e o subsistema Linux, permitindo que você execute aplicativos e comandos do Linux no seu computador com Windows. O WSL é uma solução conveniente para desenvolvedores que desejam usar ferramentas e recursos do Linux enquanto mantêm a funcionalidade do Windows.
+
+Quando você usa o VSCode (Visual Studio Code) no Windows com o WSL, você pode aproveitar as vantagens das ferramentas e recursos do Ubuntu (ou qualquer outra distribuição Linux suportada pelo WSL) diretamente no seu ambiente de desenvolvimento integrado. Isso permite que você execute comandos do terminal do Linux, use utilitários e bibliotecas específicos do Linux e trabalhe com fluxos de trabalho que são mais comuns em ambientes Linux.
+
+Além disso, o VSCode possui extensões e integrações específicas para o desenvolvimento no ambiente Linux, permitindo que você escreva, depure e teste seu código de maneira eficiente. Ao combinar o Ubuntu com o WSL e o VSCode, você pode obter o melhor dos dois mundos: a flexibilidade e a estabilidade do Ubuntu e a interface e a compatibilidade do Windows.
+
+Em resumo, usar o Ubuntu com o WSL no VSCode em computadores com Windows oferece uma solução poderosa e conveniente para desenvolvedores que desejam trabalhar com ferramentas e recursos do Linux em um ambiente Windows, sem a necessidade de dual boot ou de manter dois sistemas operacionais separados.
 ## 1- Instalar o VSCode  (na Microsoft Store)
 
 instalar o `remote wsl` no vscode (nas extensões)
