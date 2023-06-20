@@ -19,7 +19,7 @@ instalar o `remote wsl` no vscode (nas extensões)
 
 `wsl --install` para instalar 
 
-`sl --list --online` para ver se instalou
+`wsl --list --online` para ver se instalou
 
 `wsl --set-version Ubuntu-20.04 2` definirá sua distribuição do Ubuntu 20.04 para usar o WSL 2.
 
